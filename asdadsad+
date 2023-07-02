@@ -1,0 +1,3 @@
+# testing the resonse system 
+while true:
+print ('bot: ' + get_response(input('you: ')))
